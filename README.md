@@ -6,3 +6,5 @@ I implemented and compared two classification models:
 	•	K-Nearest Neighbors (KNN)
 
 Both models were trained and evaluated using the same dataset and performance metrics to assess their accuracy and effectiveness in classifying different types of stars. 
+
+Link to dataset: https://www.kaggle.com/datasets/datascientist97/astronomical-data/data
