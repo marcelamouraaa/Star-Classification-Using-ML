@@ -1,5 +1,5 @@
 # Star-Classification-Using-ML
-For my final project in a Machine Learning course, I explored an astronomical dataset containing various physical properties of stars — such as temperature, luminosity, radius, and absolute magnitude. The goal was to predict the star type using supervised machine learning.
+For my final project in my Machine Learning course, I explored an astronomical dataset containing various physical properties of stars — such as temperature, luminosity, radius, and absolute magnitude. The goal was to predict the star type using supervised machine learning.
 
 I implemented and compared two classification models:
 	•	Random Forest Classifier
